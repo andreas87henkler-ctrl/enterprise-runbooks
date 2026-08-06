@@ -38,6 +38,7 @@ enterprise-runbooks/
 │   ├── backup/
 │   ├── network/
 │   └── security/
+│ 
 │ ── work-instructions/
 │   ├── kubernetes/
 │   ├── proxmox/
@@ -45,6 +46,7 @@ enterprise-runbooks/
 │   ├── backup/
 │   ├── network/
 │   └── security/
+│ 
 ├── troubleshooting/
 │   ├── infrastructure/
 │   ├── storage/
