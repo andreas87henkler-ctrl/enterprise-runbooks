@@ -25,6 +25,7 @@ All documentation is **vendor-neutral** whenever possible and designed to be eas
 
 ## Repository Structure
 
+```text
 enterprise-runbooks/
 │
 ├── docs/                  # Documentation and standards
@@ -127,3 +128,4 @@ Please open an Issue or submit a Pull Request.
 ## License
 
 This project is licensed under the **MIT License**.
+
