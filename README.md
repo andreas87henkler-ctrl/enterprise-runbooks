@@ -124,7 +124,24 @@ Suggestions, improvements, and discussions are welcome.
 Please open an Issue or submit a Pull Request.
 
 ---
+Project Status
 
+Enterprise Runbooks is an open-source documentation framework providing vendor-neutral operational runbooks, documentation standards, and templates for enterprise IT environments.
+
+Current Release: v1.0.0
+
+Included:
+- Enterprise Documentation Framework (EDF)
+- Enterprise Documentation Standards (EDS)
+- Enterprise Runbook Template (TMP)
+- Core Operational Runbooks (RB)
+
+Future roadmap:
+- Work Instructions (WI)
+- Troubleshooting Guides (TS)
+- Architecture diagrams
+- Example implementations
+---
 ## License
 
 This project is licensed under the **MIT License**.
