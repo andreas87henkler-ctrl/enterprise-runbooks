@@ -38,6 +38,20 @@ enterprise-runbooks/
 │   ├── backup/
 │   ├── network/
 │   └── security/
+│ ── work-instructions/
+│   ├── kubernetes/
+│   ├── proxmox/
+│   ├── ceph/
+│   ├── backup/
+│   ├── network/
+│   └── security/
+├── troubleshooting/
+│   ├── infrastructure/
+│   ├── storage/
+│   ├── kubernetes/
+│   ├── backup/
+│   ├── network/
+│   └── security/
 │
 ├── diagrams/              # Architecture diagrams
 ├── scripts/               # Supporting automation scripts
