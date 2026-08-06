@@ -124,7 +124,7 @@ Suggestions, improvements, and discussions are welcome.
 Please open an Issue or submit a Pull Request.
 
 ---
-Project Status
+## Project Status
 
 Enterprise Runbooks is an open-source documentation framework providing vendor-neutral operational runbooks, documentation standards, and templates for enterprise IT environments.
 
