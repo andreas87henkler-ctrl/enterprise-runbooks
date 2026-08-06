@@ -46,6 +46,7 @@ enterprise-runbooks/
 │   ├── backup/
 │   ├── network/
 │   └── security/
+│   └── storage/
 │ 
 ├── troubleshooting/
 │   ├── infrastructure/
